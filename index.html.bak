@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script>
+      window.location.replace("http://gabefolio.com");
+    </script>
+  </body>
+</html>
