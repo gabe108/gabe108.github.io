@@ -38,9 +38,9 @@ textarea:focus:-ms-input-placeholder {
 	color: #f0f0f0;
 }
 
-body, .container .line {
+/*body, .container .line {
 	background: #26262d;
-}
+}*/
 
 table th, 
 table td {
